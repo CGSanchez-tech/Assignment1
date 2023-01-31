@@ -1,0 +1,16 @@
+body {
+  font-family: Courier New;
+  color: blue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: hotpink;
+  background-color: lavender;
+  padding: 10px;
+}
+
+.link {
+  margin: 40px;
+}
