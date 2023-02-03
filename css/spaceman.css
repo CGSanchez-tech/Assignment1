@@ -1,7 +1,17 @@
 body {
-    font-family: Arial;
+    font-family: Courier;
     color: blue;
     text-align: center;
+    background-color: black;
+
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    background-color: gray;
+    padding: 10px;
   }
   
   img {
@@ -15,15 +25,9 @@ body {
   } 
   
   #div-id {
-    color: crimson;
+    color: black;
   } 
   
   div {
-    color: orange;
+    color: palevioletred;
   }
-  
-  a {
-    text-decoration: none;
-    color: seagreen;
-  }
-  
